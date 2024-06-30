@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Let's all in rust, all in web3 !!
+
 <!--
 
 **Here are some ideas to get you started:**
